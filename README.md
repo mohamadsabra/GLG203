@@ -38,6 +38,6 @@
     
 - 30/12/2017  : Téléchargement de [Java 9](http://www.oracle.com/technetwork/java/javase/downloads/jdk9-downloads-3848520.html) dans VMware Workstation.
 
-- 30/12/2017  : Téléchargement de [Docker](https://www.docker.com/get-docker) dans VMware Workstation.
+- 30/12/2017  : Téléchargement de [Docker CE for Ubuntu](https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/#upgrade-docker-ce) dans VMware Workstation.
 
 - 30/12/2017  : Téléchargement d'une [vidéo](https://www.youtube.com/watch?v=caXHwYC3tq8&index=2&list=PLP0aqyZ5GFdlIIXhGEbJOndZUUqIppqED) de la chaine [Cookie Connecté](https://www.youtube.com/channel/UC5cs06DgLFeyLIF_II7lWCQ/about) qui explique en moins de 10 minutes le sujet Docker.
