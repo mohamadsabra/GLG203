@@ -36,15 +36,15 @@
                         8. Click Restart.
 ```
     
-- 30/12/2017  : Téléchargement de [Java 9](http://www.oracle.com/technetwork/java/javase/downloads/jdk9-downloads-3848520.html) dans VMware Workstation.
+- 30/12/2017  : Téléchargement de [Java 9](http://www.oracle.com/technetwork/java/javase/downloads/jdk9-downloads-3848520.html) dans VMware Workstation. **DONE**
 
-- 30/12/2017  : Téléchargement de [Docker CE for Ubuntu](https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/#upgrade-docker-ce) dans VMware Workstation.
+- 30/12/2017  : Téléchargement de [Docker CE for Ubuntu](https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/#upgrade-docker-ce) dans VMware Workstation. **DONE**
 
    *Je rencontre quelques difficultés techniques à ce stage*
 
    ***Solution:** Utilisation de "Ubuntu Software Center" pour l'installation suite à l'erreur décrite [ici](https://askubuntu.com/questions/760034/waiting-to-install-for-ever-ubuntu-software-16-04)*
    
-   *Autre erreur rencontrée et [**solution**](https://techoverflow.net/2017/03/01/solving-docker-permission-denied-while-trying-to-connect-to-the-docker-daemon-socket/)*
+   *Autre erreur rencontrée et [**solution**](https://techoverflow.net/2017/03/01/solving-docker-permission-denied-while-trying-to-connect-to-the-docker-daemon-socket/).*
    
    **TEST**
    ```
@@ -79,6 +79,14 @@
 
    ```
 
-- 30/12/2017  : Téléchargement de la [vidéo](https://www.youtube.com/watch?v=caXHwYC3tq8&index=2&list=PLP0aqyZ5GFdlIIXhGEbJOndZUUqIppqED) à partir de la chaine [Cookie Connecté](https://www.youtube.com/channel/UC5cs06DgLFeyLIF_II7lWCQ/about) qui explique en moins de 10 minutes le sujet Docker.
+- 30/12/2017   :  Téléchargement de la [vidéo](https://www.youtube.com/watch?v=caXHwYC3tq8&index=2&list=PLP0aqyZ5GFdlIIXhGEbJOndZUUqIppqED) à partir de la chaine [Cookie Connecté](https://www.youtube.com/channel/UC5cs06DgLFeyLIF_II7lWCQ/about) qui explique en moins de 10 minutes le sujet Docker. **DONE**
+  
+- 31/12/2017   :  Création du document PPT "Présentation" à partir de la vidéo.
 
-- 31/12/2017: 
+- 31/12/2017   :  Création du document PPT "Tutoriel".
+
+- 31/12/2017   :  Voir comment utiliser GitHub Pages pour la génération de la documentation.
+
+- 01/01/2018   :  Publication du lien du projet dans l'issue/instructions de l'organisation ISSAE.
+
+
