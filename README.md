@@ -15,8 +15,10 @@
     (4) Update the host's BIOS/firmware to the latest version.
     For more detailed information, see http://vmware.com/info?id=152.*
     
-    ***Solution**: Accéder au bios de l'hôte et activer la technologie virtuelle. 
-     Dans Windows 10:
+    ***Solution**: Accéder au bios de l'hôte et activer la technologie virtuelle.* 
+
+   *Dans Windows 10:*
+```
                         1. Navigate to settings.
 
                         2. Select Update & security.
@@ -31,7 +33,8 @@
 
                         7. Select UEFI Firmware Settings.
 
-                        8. Click Restart.*
+                        8. Click Restart.
+```
     
 - 30/12/2017  : Téléchargement de [Java 9](http://www.oracle.com/technetwork/java/javase/downloads/jdk9-downloads-3848520.html) dans VMware Workstation.
 
