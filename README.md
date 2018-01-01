@@ -87,7 +87,7 @@
 
 - 01/01/2018   :  Création du document PPT "Tutoriel".
 
-- 01/01/2018   :  Voir comment utiliser [GitHub Pages](https://help.github.com/articles/what-is-github-pages/) pour la génération de la documentation.
+- 01/01/2018   :  Voir comment utiliser [GitHub Pages](https://help.github.com/categories/github-pages-basics/) pour la génération de la documentation.
 
 - 01/01/2018   :  Publication du lien du projet dans l'issue/instructions de l'organisation ISSAE.
 
