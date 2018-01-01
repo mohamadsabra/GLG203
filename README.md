@@ -87,7 +87,7 @@
 
 - 01/01/2018   :  Création du document PPT "Présentation" à partir de la vidéo. **DONE**
 
-- 01/01/2018   :  Création du document PPT "Tutoriel".
+- 01/01/2018   :  Création du document PPT "Tutoriel". (Faire tourner une Simple Application .jar dans un Docker Container avec pull et push - DockerHUb)
 
 - 01/01/2018   :  Création d'un compte sur [Docker Hub](https://hub.docker.com/). **DONE**
 
