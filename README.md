@@ -2,7 +2,9 @@
 
 ## Dépôt utilisé pour le projet/tutoriel du cours GLG203.
 
-### Étapes de travail et liens
+### Projet Docker : Étapes de travail et liens
+
+![Docker Logo](https://www.vectorlogo.zone/logos/docker/docker-official.svg)
 
 - 30/12/2017: Téléchargement du fichier [ubuntu-16.04.3-desktop-amd.ISO](http://releases.ubuntu.com/16.04.3/ubuntu-16.04.3-desktop-amd64.iso?_ga=2.141958513.275425082.1514648910-708044463.1514648910) pour créer un environnement de travail Ubuntu dans VMware Workstation. **DONE**
 
