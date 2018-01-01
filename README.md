@@ -81,12 +81,15 @@
 
 - 30/12/2017   :  Téléchargement de la [vidéo](https://www.youtube.com/watch?v=caXHwYC3tq8&index=2&list=PLP0aqyZ5GFdlIIXhGEbJOndZUUqIppqED) à partir de la chaine [Cookie Connecté](https://www.youtube.com/channel/UC5cs06DgLFeyLIF_II7lWCQ/about) qui explique en moins de 10 minutes le sujet Docker. **DONE**
   
-- 31/12/2017   :  Création du document PPT "Présentation" à partir de la vidéo.
+- 31/12/2017   :  Création du document PPT "Présentation" à partir de la vidéo. 
 
-- 31/12/2017   :  Création du document PPT "Tutoriel".
+- 01/01/2018   :  Création du document PPT "Présentation" à partir de la vidéo. **DONE**
 
-- 31/12/2017   :  Voir comment utiliser GitHub Pages pour la génération de la documentation.
+- 01/01/2018   :  Création du document PPT "Tutoriel".
+
+- 01/01/2018   :  Voir comment utiliser GitHub Pages pour la génération de la documentation.
 
 - 01/01/2018   :  Publication du lien du projet dans l'issue/instructions de l'organisation ISSAE.
 
 
+Total Hours of work: 1,5 + 2 + 2 + 3 
