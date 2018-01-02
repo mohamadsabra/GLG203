@@ -91,10 +91,9 @@
 
 - 01/01/2018   :  Voir comment utiliser [GitHub Pages](https://help.github.com/categories/github-pages-basics/) pour la génération de la documentation. **DONE** [Page to share.](https://mohamadsabra.github.io/GLG203/)
 
-- 02/01/2018 :  Voir comment définir un thème Jekyll dans GitHub.
+- 02/01/2018 :  Voir comment définir un thème Jekyll dans GitHub. **DONE**
 
 - 02/01/2018   :  Création du document PPT "Tutoriel". (Faire tourner une Simple Application .jar dans un Docker Container avec pull et push - DockerHUb)
-
 
 - 02/01/2018   :  Publication du lien du projet dans l'issue/instructions de l'organisation ISSAE.
 
