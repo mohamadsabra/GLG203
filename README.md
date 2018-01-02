@@ -83,17 +83,20 @@
 
 - 30/12/2017   :  Téléchargement de la [vidéo](https://www.youtube.com/watch?v=caXHwYC3tq8&index=2&list=PLP0aqyZ5GFdlIIXhGEbJOndZUUqIppqED) à partir de la chaine [Cookie Connecté](https://www.youtube.com/channel/UC5cs06DgLFeyLIF_II7lWCQ/about) qui explique en moins de 10 minutes le sujet Docker. **DONE**
   
-- 31/12/2017   :  Création du document PPT "Présentation" à partir de la vidéo. 
+- 31/12/2017   :  Création du document PPT "Présentation" à partir de la vidéo   .  
 
 - 01/01/2018   :  Création du document PPT "Présentation" à partir de la vidéo. **DONE**
-
-- 01/01/2018   :  Création du document PPT "Tutoriel". (Faire tourner une Simple Application .jar dans un Docker Container avec pull et push - DockerHUb)
 
 - 01/01/2018   :  Création d'un compte sur [Docker Hub](https://hub.docker.com/). **DONE**
 
 - 01/01/2018   :  Voir comment utiliser [GitHub Pages](https://help.github.com/categories/github-pages-basics/) pour la génération de la documentation. **DONE** [Page to share.](https://mohamadsabra.github.io/GLG203/)
 
-- 01/01/2018   :  Publication du lien du projet dans l'issue/instructions de l'organisation ISSAE.
+- 02/01/2018 :  Voir comment définir un thème Jekyll dans GitHub.
+
+- 02/01/2018   :  Création du document PPT "Tutoriel". (Faire tourner une Simple Application .jar dans un Docker Container avec pull et push - DockerHUb)
+
+
+- 02/01/2018   :  Publication du lien du projet dans l'issue/instructions de l'organisation ISSAE.
 
 
 Total Hours of work: 1,5 + 2 + 2 + 3 
