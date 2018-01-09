@@ -98,4 +98,4 @@
 - 02/01/2018   :  Publication du lien du projet dans l'issue/instructions de l'organisation ISSAE.
 
 
-Total Hours of work: 1,5 + 2 + 2 + 3 
+Total Hours of work: 1,5 + 2 + 2 + 3 + 
