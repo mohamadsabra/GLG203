@@ -97,5 +97,5 @@
 
 - 03/01/2018   :  Publication du lien du projet dans l'issue/instructions de l'organisation ISSAE. **PULL REQUEST CREATED in [cyclec2018 repository.](https://github.com/ISSAE/cyclec2018)**
 
-- 04/01/2018 :  Difficultés techniques dans les dernières étapes durant l'eesai du tutoriel.
+- 04/01/2018 :  Difficultés techniques dans les dernières étapes durant l'essai du tutoriel.
 
