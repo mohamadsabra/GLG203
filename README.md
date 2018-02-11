@@ -85,7 +85,7 @@
   
 - 31/12/2017   :  Création du document PPT "Présentation" à partir de la vidéo   .  
 
-- 01/01/2018   :  Création du document PPT "Présentation" à partir de la vidéo. **DONE**
+- 01/01/2018   :  Suite: Création du document PPT "Présentation" à partir de la vidéo. **DONE**
 
 - 01/01/2018   :  Création d'un compte sur [Docker Hub](https://hub.docker.com/). **DONE**
 
@@ -93,10 +93,8 @@
 
 - 02/01/2018 :  Voir comment définir un thème Jekyll dans GitHub. **DONE**
 
-- 03/01/2018   :  Création du document PPT "Tutoriel". (Faire tourner une Simple Application .jar dans un Docker Container avec pull et push - DockerHub). **IN PROGRESS**
+- 03/01/2018   :  Création du document PPT "Tutoriel". (Faire tourner une Simple Application .jar dans un Docker Container avec pull et push - DockerHub). **DONE**
 
 - 03/01/2018   :  Publication du lien du projet dans l'issue/instructions de l'organisation ISSAE. **PULL REQUEST CREATED in [cyclec2018 repository.](https://github.com/ISSAE/cyclec2018)**
 
 - 04/01/2018 :  Difficultés techniques dans les dernières étapes durant l'eesai du tutoriel.
-
-Total Hours of work: 1,5 + 2 + 2 + 3 + 3
