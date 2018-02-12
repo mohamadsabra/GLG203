@@ -1,3 +1,5 @@
+**WARNING**: It cost me about 3 hours to rebuild everything after executing the command [chmod -R 777 /](https://serverfault.com/questions/364677/why-is-chmod-r-777-destructive)
+
 # Architectures Logicielles Java(1) (GLG203)
 
 ## Dépôt utilisé pour le projet/tutoriel du cours GLG203.
