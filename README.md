@@ -1,3 +1,5 @@
+**WARNING**: It cost me about 3 hours to rebuild everything after executing the command [chmod -R 777 /](https://serverfault.com/questions/364677/why-is-chmod-r-777-destructive)
+
 # Architectures Logicielles Java(1) (GLG203)
 
 ## Dépôt utilisé pour le projet/tutoriel du cours GLG203.
@@ -97,5 +99,8 @@
 
 - 03/01/2018   :  Publication du lien du projet dans l'issue/instructions de l'organisation ISSAE. **PULL REQUEST CREATED in [cyclec2018 repository.](https://github.com/ISSAE/cyclec2018)**
 
-- 04/01/2018 :  Difficultés techniques dans les dernières étapes durant l'eesai du tutoriel.
+- 04/01/2018 :  Difficultés techniques dans les dernières étapes durant l'essai du tutoriel.
 
+Other Notes 13/02/2018:
+service docker restart
+docker rmi -f imagename
