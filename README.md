@@ -101,3 +101,6 @@
 
 - 04/01/2018 :  Difficultés techniques dans les dernières étapes durant l'essai du tutoriel.
 
+Other Notes 13/02/2018:
+service docker restart
+docker rmi -f imagename
